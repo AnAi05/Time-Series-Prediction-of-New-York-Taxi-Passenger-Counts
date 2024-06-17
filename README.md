@@ -34,6 +34,7 @@ To run the notebook, you need to have Python and the necessary libraries install
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Results
 The notebook provides detailed analysis and visualization of the performance of each model on the New York Taxi dataset. The results include loss curves, predictions, and performance metrics.
